@@ -5,7 +5,7 @@ export default function HalamanUtama() {
     <>
       <header className="bg-gray-800 text-white p-5 font-serif">
         <div className="max-w-4xl mx-auto flex flex-wrap justify-between items-center">
-          {/* <h1 className="text-4xl font-bold">Lira.com</h1> */}
+          <h1 className="text-4xl font-bold">Lira.com</h1>
 
           {/* Navigation */}
           <nav className="w-full md:w-auto">
@@ -395,46 +395,46 @@ export default function HalamanUtama() {
                 4. Kickzone Futsal
               </h2>
               <div className="my-5 text-sm grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
-                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg m-2 hover:bg-blue-600">
+                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg m-2 ">
                   React.js
                 </button>
-                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg m-2 hover:bg-blue-600">
+                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg m-2 ">
                   Tailwind.css
                 </button>
-                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg m-2 hover:bg-blue-600">
+                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg m-2">
                   Css
                 </button>
-                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg m-2 hover:bg-blue-600">
+                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg m-2 ">
                   Java Springboot
                 </button>
-                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg m-2 hover:bg-blue-600">
+                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg m-2">
                   JavaScript
                 </button>
-                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg m-2 hover:bg-blue-600">
+                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg m-2">
                   Vite
                 </button>
-                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg m-2 hover:bg-blue-600">
+                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg m-2">
                   PostgreSQL
                 </button>
-                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg m-2 hover:bg-blue-600">
+                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg m-2 ">
                   Git
                 </button>
-                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg m-2 hover:bg-blue-600">
+                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg m-2">
                   GitHub
                 </button>
-                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg m-2 hover:bg-blue-600">
+                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg m-2 ">
                   DBper
                 </button>
-                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg m-2 hover:bg-blue-600">
+                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg m-2 ">
                   MariaDB
                 </button>
-                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg m-2 hover:bg-blue-600">
+                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg m-2">
                   JWT
                 </button>
-                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg m-2 hover:bg-blue-600">
+                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg m-2">
                   REST API
                 </button>
-                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg m-2 hover:bg-blue-600">
+                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg m-2 ">
                   Visual Studio Code
                 </button>
               </div>
@@ -493,25 +493,25 @@ export default function HalamanUtama() {
                 5. Job Management System
               </h2>
               <div className="my-5 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
-                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg hover:bg-blue-600">
+                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg ">
                   React.js
                 </button>
-                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg hover:bg-blue-600">
+                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg ">
                   Tailwind.css
                 </button>
-                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg hover:bg-blue-600">
+                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg ">
                   Css
                 </button>
-                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg hover:bg-blue-600">
+                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg ">
                   TypeScript
                 </button>
-                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg hover:bg-blue-600">
+                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg ">
                   Vite
                 </button>
-                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg hover:bg-blue-600">
+                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg ">
                   Java Spring Boot
                 </button>
-                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg hover:bg-blue-600">
+                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg">
                   Visual Studio Code
                 </button>
               </div>
@@ -551,22 +551,22 @@ export default function HalamanUtama() {
                 6. Fruity Store
               </h2>
               <div className="my-5 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
-                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg hover:bg-blue-600">
+                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg ">
                   React.js
                 </button>
-                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg hover:bg-blue-600">
+                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg ">
                   Tailwind.css
                 </button>
-                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg hover:bg-blue-600">
+                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg ">
                   Css
                 </button>
-                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg hover:bg-blue-600">
+                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg ">
                   JavaScript
                 </button>
-                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg hover:bg-blue-600">
+                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg ">
                   Vite
                 </button>
-                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg hover:bg-blue-600">
+                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg ">
                   Visual Studio Code
                 </button>
               </div>
@@ -605,22 +605,22 @@ export default function HalamanUtama() {
                 8. To-Do List
               </h2>
               <div className="my-5 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
-                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg hover:bg-blue-600">
+                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg ">
                   React.js
                 </button>
-                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg hover:bg-blue-600">
+                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg ">
                   Tailwind.css
                 </button>
-                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg hover:bg-blue-600">
+                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg ">
                   Css
                 </button>
-                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg hover:bg-blue-600">
+                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg ">
                   JavaScript
                 </button>
-                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg hover:bg-blue-600">
+                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg ">
                   Vite
                 </button>
-                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg hover:bg-blue-600">
+                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg ">
                   Visual Studio Code
                 </button>
               </div>
@@ -658,22 +658,22 @@ export default function HalamanUtama() {
                 9. General Election Commissions
               </h2>
               <div className="my-5 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
-                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg hover:bg-blue-600">
+                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg ">
                   React.js
                 </button>
-                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg hover:bg-blue-600">
+                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg ">
                   Tailwind.css
                 </button>
-                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg hover:bg-blue-600">
+                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg ">
                   Css
                 </button>
-                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg hover:bg-blue-600">
+                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg ">
                   TypeScript
                 </button>
-                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg hover:bg-blue-600">
+                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg ">
                   Vite
                 </button>
-                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg hover:bg-blue-600">
+                <button className="bg-slate-500 text-white py-2 px-4 rounded-lg ">
                   Visual Studio Code
                 </button>
               </div>
