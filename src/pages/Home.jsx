@@ -1,4 +1,4 @@
-import Footer from "../components/footer";
+import Footer from "../components/Footer";
 import HalamanUtama from "../components/HalamanUtama";
 
 function Home() {
