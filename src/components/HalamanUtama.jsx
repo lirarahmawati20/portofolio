@@ -5,7 +5,7 @@ export default function HalamanUtama() {
     <>
       <header className="bg-gray-800 text-white p-5 font-serif">
         <div className="max-w-4xl mx-auto flex flex-wrap justify-between items-center">
-          <h1 className="text-4xl font-bold">Lira.com</h1>
+          {/* <h1 className="text-4xl font-bold">Lira.com</h1> */}
 
           {/* Navigation */}
           <nav className="w-full md:w-auto">
